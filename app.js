@@ -1,4 +1,3 @@
-
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
@@ -13,4 +12,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('Nzk0NTQ4MzE2MDM3NzA5ODQ0.X-8ayA.IfdLxUjdvHPMGALra_dSmccrX6M');
+client.login('Nzk0NTQ4MzE2MDM3NzA5ODQ0.X-8ayA.fbVoEmv4B9WeoBgoSMgbOz-gtw4');
